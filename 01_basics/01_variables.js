@@ -12,6 +12,6 @@ accountemail = "shreya@334"
 
 // prefer not to use var because of issue in block scope and function....
 
-console.table([accountId,accountpassword,accountcity,accountemail.accountstate]);
+console.table([accountId,accountpassword,accountcity,accountemail,accountstate]);
 
 console.log(accountId);

@@ -1,0 +1,20 @@
+DAY-1 VIDEO-1
+
+JAVASCRIPT IS DYNAMICALLY TYPED THAT MEANS VARIABLE CAN STORE ANY VALUE OF ANY DATATYPE LIKE 1,A,EWDWE ETC.
+VARIABLES NAMES ARE CASE SENSITIVE.
+const , let are like area  specifiers.
+let can be updated not redeclared like var . dont use var it is not good.
+ES (ECMA SCRIPT) come after 2015 with new feature of const and let.
+ varibale with let keyword if not initialized with any value than it return undefined as output..
+ const varible if not initialized than return error..
+ ojects are the collection of values{key:value}.. see objects.js 
+ CONST CAN NOT BE CHANGED OT DECLARED AGAIN BUT IN CASE OF OBJECT IT CAN BE..
+
+ DAY-2 VIDEO-2
+
+JUST LEARN OPERATORS IN JS SAME LIKE IN JAVASCRIPT
+ === AND !== ARE COMPARE AND ALSO ITS TYPE COMPARISON
+ SOME CONDITIONAL STATEMENTS IF ELSE SWITCH AND OR ETC..
+ ALERT IS JUST FOR POP UP ON WEB PAGE..
+ PROMPT IS LIKE ALERT FR=OR POPUP BUT IT ALSO TAKES INPUT..
+ 
