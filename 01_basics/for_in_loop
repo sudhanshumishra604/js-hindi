@@ -1,0 +1,21 @@
+// FOR-IN LOOP
+// const student = {
+//     name: "sudhanshu",
+//     age:20,
+//     isvoter: true,
+//     percentage: 99
+// };
+
+// for(let i in student){
+//     console.log(i); 
+//     console.log("key is:", i, "and value is:", student[i]);
+// }
+
+
+// FOR-OF LOOP
+let str = "Sudhanshu";
+
+for(let char of str){
+    console.log(char);
+}
+

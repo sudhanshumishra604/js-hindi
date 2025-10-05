@@ -5,10 +5,10 @@ VARIABLES NAMES ARE CASE SENSITIVE.
 const , let are like area  specifiers.
 let can be updated not redeclared like var . dont use var it is not good.
 ES (ECMA SCRIPT) come after 2015 with new feature of const and let.
- varibale with let keyword if not initialized with any value than it return undefined as output..
- const varible if not initialized than return error..
+ variable with let keyword if not initialized with any value than it return undefined as output..
+ const variable if not initialized than return error..
  ojects are the collection of values{key:value}.. see objects.js 
- CONST CAN NOT BE CHANGED OT DECLARED AGAIN BUT IN CASE OF OBJECT IT CAN BE..
+ CONST CAN NOT BE CHANGED AND DECLARED AGAIN BUT IN CASE OF OBJECT IT CAN BE..
 
  DAY-2 VIDEO-2
 
@@ -16,5 +16,15 @@ JUST LEARN OPERATORS IN JS SAME LIKE IN JAVASCRIPT
  === AND !== ARE COMPARE AND ALSO ITS TYPE COMPARISON
  SOME CONDITIONAL STATEMENTS IF ELSE SWITCH AND OR ETC..
  ALERT IS JUST FOR POP UP ON WEB PAGE..
- PROMPT IS LIKE ALERT FR=OR POPUP BUT IT ALSO TAKES INPUT..
- 
+ PROMPT IS LIKE ALERT FOR POPUP BUT IT ALSO TAKES INPUT..
+
+DAY-3 VIDEO-3
+
+JUST LEARN NEW LOOPS IN JAVASCRIPT LIKE FOR AND WHILE AND DO-WHILE LOOPSSS
+THERE IS FOR-OF LOOP USED FOR TRAVERSING STRING VARIABLES (FOR-INLOOP.JS)
+THERE IS A FOR-IN LOOP FOR FINDING ALL KEYS IN OBJECT...
+TEMPLATE LITERALS IN JS LIKE `` is better than ""...
+STRING :-
+YOU CANNOT MODIFY THE ORIGNAL STRING AT ALL YOU NEED TO MAKE NEW VARIABLE FOR TO STOREB CHANGES..
+STRING.LENGTH,STRING.UPPERCASE ALL METHODS IN JS.
+string concat string slice ,trim etc..
