@@ -25,6 +25,37 @@ THERE IS FOR-OF LOOP USED FOR TRAVERSING STRING VARIABLES (FOR-INLOOP.JS)
 THERE IS A FOR-IN LOOP FOR FINDING ALL KEYS IN OBJECT...
 TEMPLATE LITERALS IN JS LIKE `` is better than ""...
 STRING :-
+escaple characters = /n , /t 
 YOU CANNOT MODIFY THE ORIGNAL STRING AT ALL YOU NEED TO MAKE NEW VARIABLE FOR TO STOREB CHANGES..
 STRING.LENGTH,STRING.UPPERCASE ALL METHODS IN JS.
 string concat string slice ,trim etc..
+
+DAY-4 VIDEO-4
+
+ALL ABOUT ARRAY
+HOW TO DECLARE ARRAY.
+data in array are linearly stored.
+IT IS USED TO STORE SAME TYPE OF ITEMS.
+IT IS TYPEOF IS OBJECT 
+LOOPING IS SAME AS IN JAVA  (array.js)
+FOR-OF LOOP AND FOR-IN CAN BE USED.
+Push AND POP method in string to add and delete element in array.
+tostring method in array .
+unshift method to add elemr=ent in start of array.
+shift method to delete element of start.
+
+DAY-5 VIDEO-5
+
+FUNCTION AND METHODS
+HOW TO DECLARE FUNCTION AND PARAMETERS OF IT.
+FUNCTION KEYWORD USED TO DECLARE AND ELSE IS SAME AS JAVA.
+ARROW FUNCTION :- COMPACT WAY OF WRITTING FUNCTION (FUNCTION.JS)
+ARROW FUNCTION has a variable that stores value function.
+METHODS ARE LIKE FUNCTION BUT THEY ARE ASSOCIATED WITH OBJECT.
+like uppercase method only used for string.
+FOR- EACH METHOS IS ONLY USED FOR ARRAY.
+FOR EACH TAKES FUNCTION AS PARAMETER TO TRAVERSE ARRAY
+FOR EAC HAVE DEFAULT WAY TO PRINT INDEX AND ARRAY ALSO IF PASS AS ARGUMENT (FUNCTION.JS)
+HIGH ORDER FUNCTION/METHOD (HOF) ARE FUNCTION WHICH TAKE OTHER FUNCTION AS PARAMETER OR Return function .
+map method in array is just like FOR-EACH loop . it returns new array.
+filter method is another method for array to filter array with given conditions and return new array.
