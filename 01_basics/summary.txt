@@ -41,7 +41,7 @@ LOOPING IS SAME AS IN JAVA  (array.js)
 FOR-OF LOOP AND FOR-IN CAN BE USED.
 Push AND POP method in string to add and delete element in array.
 tostring method in array .
-unshift method to add elemr=ent in start of array.
+unshift method to add element in start of array.
 shift method to delete element of start.
 
 DAY-5 VIDEO-5
@@ -54,8 +54,59 @@ ARROW FUNCTION has a variable that stores value function.
 METHODS ARE LIKE FUNCTION BUT THEY ARE ASSOCIATED WITH OBJECT.
 like uppercase method only used for string.
 FOR- EACH METHOS IS ONLY USED FOR ARRAY.
-FOR EACH TAKES FUNCTION AS PARAMETER TO TRAVERSE ARRAY
-FOR EAC HAVE DEFAULT WAY TO PRINT INDEX AND ARRAY ALSO IF PASS AS ARGUMENT (FUNCTION.JS)
+FOR EACH TAKES FUNCTION AS PARAMETER TO TRAVERSE ARRAY.
+FOR EACH HAVE DEFAULT WAY TO PRINT INDEX AND ARRAY ALSO IF PASS AS ARGUMENT (FUNCTION.JS)
 HIGH ORDER FUNCTION/METHOD (HOF) ARE FUNCTION WHICH TAKE OTHER FUNCTION AS PARAMETER OR Return function .
-map method in array is just like FOR-EACH loop . it returns new array.
+map method in array is just like FOR-EACH loop  it returns new array.
 filter method is another method for array to filter array with given conditions and return new array.
+
+DAY-6 VIDEO-6
+
+DOM(Document object model)
+Learn about html,css and js and how to link all with each other.
+for css:- link tag used and for JAVASCRIPT:- script tag used.
+Window Object :- Its a global object with lots of properties and methods. Already present in browser.  like alert, console.log etc..(they arfe browsers object not javascript object..)
+What is DOM?  :-  its a technique to access html in javascript.
+DOM is used for dynamic change in webpage as we cannot change html ,css again and again so js is used for dynamic changes like darkmode when click on button.
+we can access html by window object with documnet in it.
+we learn about how can we access html and css both using only javascript. 
+Methods like queryselector , getelementbyclass , append,prepand etc.
+
+DAY-7 VIDEO-7
+
+Learn some new DOM Manipulation methods like:
+to access attribute getAttribute.
+to change its attribute.
+to create element for adding use createElement.
+
+DAY-8 VIDEO-8
+
+WE Learn about EVENTS which do something change in webpage.
+onclick attribute used for change when clicked on button..
+there is another event handling attribute which is ondblclick.
+these are all inline event handling.
+we can also handle event using javascript using arrow function using events attribute in js.
+javascript event handling have more priority than inline handling .
+To access event object like event attribute. target , tags where event happening we can use  e,evet,event in arrow function..
+EVENT LISTNERS is another method for event handling besides other methods.
+here in event listners we use Node.addEventListners(event,callback func); and another is removeeventlisners();
+IT takes function to do a event as argument.
+
+DAY-9 ViDEO-9 
+
+Made a project on tic tac toe  (tictactoe)
+
+DAY-11  VIDEO-11
+
+CLAsses and Object:-
+
+we already learn how to make object previously (object.js).
+Javascript objects having state and behaviour (property and method).
+prototypes are present in object which contain some predefined method like concat,toString,typeof etc..
+__proto__ can be used to assign any function to other function.
+Classes are template for creating objects .ITs sae like in java.
+constructor is called using constructor keyword.
+Inheritance can also be done using extends keyword.
+there is a concept of super() used to use constructor of parent function. Without we cannot access parent constructor in child class.
+file handling using try-catch block.
+

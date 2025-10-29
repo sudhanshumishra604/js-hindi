@@ -19,6 +19,7 @@
 // arr.forEach((val,index,arr)=>{   //here index and arr are default parameter of for-each method
 //     console.log(val,index,arr);
 // });
+
 let arr1 = [5,3,8,2,1,18];
 // let newarray = arr1.map((val)=>{
 //     return val*2;
