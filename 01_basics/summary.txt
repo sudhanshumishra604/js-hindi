@@ -110,3 +110,28 @@ Inheritance can also be done using extends keyword.
 there is a concept of super() used to use constructor of parent function. Without we cannot access parent constructor in child class.
 file handling using try-catch block.
 
+Day-12  VIDEO-12
+
+synchronous & ASynchronous :- asynchronous js in which all lines executed and if any line taking more time than it execute parallely while rest of code is executing.
+CALLBACK ;- function passed as an argument in another function.
+CALLBACK HELL :- callback hell occurs when nested callbacks are happen.
+PROMISE :- Promise is for eventual completion of task. Its an object in JS.SOLutioin to callback hell problem.
+promise consist of pending,resolve and rejected. 
+promise.then() used for print something after resolve();
+promise.catch() used for to print something after error in output.
+ASync-await :-
+Async function always return a promise.
+async Fuction MYfunc(){}
+await pauses the execution of its surrounding async function until promise is setttled.
+await keyword can only be used inside a async function.
+pehla kaam hoo firr dusra firr teesra.
+
+DAy-14  VIDEO-14
+
+API is somethiing which provide interface for sending request and in response get output for that request...
+Featch API is used to send and recieve request from server.
+The Fetch() method is used to fetch a resource.
+fetch method returns promise and takes url as an argument.
+AJAX is Asynchronous javascript and XML (DAta return in Xml data). Now response comes in json(JAvascript object notation) format not in XML.
+JSON method() = conver fetch data(response in json) into js object so it can be easily be undersand by user.(Provides actual understandable data from json).
+Json method is also asynchronous 
